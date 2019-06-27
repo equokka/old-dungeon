@@ -1,0 +1,14 @@
+# items.yml
+
+rock:
+  id: 0
+  name: "Rock"
+  desc: "Reminds you of simpler times."
+stick:
+  id: 1
+  name: "Stick"
+  desc: "Sticky."
+doorhandle:
+  id: 2
+  name: "Doorhandle"
+  desc: "Whoops."
